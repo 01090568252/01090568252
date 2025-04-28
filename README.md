@@ -1,44 +1,40 @@
 # Hi there 👋 I'm Menna Hossam
 
-🎯 **Flutter Developer** passionate about building high-quality mobile applications with beautiful animations and clean architecture.
+## 💻 About Me
+I'm a Flutter Developer passionate about building beautiful and functional mobile applications.  
+I love working with Firebase, animations, and creating smooth user experiences.
 
 ---
 
-## 🛠 Skills:
+## 🛠 Skills
 - Flutter & Dart
-- State Management (Provider, Bloc, Riverpod)
-- Firebase (Authentication, Firestore, Storage)
-- API Integration & RESTful Services
-- UI/UX Best Practices
-- Git & GitHub
-- Animations and Motion Design
+- Firebase Authentication & Firestore
+- State Management (Provider, Riverpod, Bloc)
+- RESTful APIs Integration
+- UI/UX Design & Animations
 
 ---
 
-## 📚 A little about me:
-- 📱 I love turning creative ideas into real apps that users enjoy.
-- ✨ I'm passionate about UI/UX, smooth animations, and creating impactful mobile experiences.
-- 🚀 Always eager to learn and improve my skills in mobile development.
+## 📈 GitHub Stats
+![Menna's GitHub stats](https://github-readme-stats.vercel.app/api?username=01090568252&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01090568252&layout=compact&theme=radical)](https://github.com/01090568252/github-readme-stats)
 
 ---
 
-## 📈 Some of My Projects:
-- [بطاقتي App](#) – Manage your personal cards easily.
-- [تطابق Game](#) – A fun matching game built with Flutter.
-- [إسلامي App](#) – An Islamic lifestyle application.
-- [Jawda App](#) – A clothing sales application.
-- [To Do App](#) – Task management made simple.
-
-> *(Links to projects will be updated soon!)*
-
----
-
-## 📫 How to reach me:
-- 🌐 GitHub: [GitHub Profile](https://github.com/01090568252)
-- 💼 LinkedIn: [Menna Hossam](https://www.linkedin.com/in/menna-hossam-008a41256)
+## 📫 How to reach me
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/menna-hossam-008a41256/)
 - 📧 Email: menna8622@gmail.com
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my projects and connect with me!* 🚀
+## 🚀 Tools & Technologies
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+> "Keep learning, keep building, and stay awesome! 🚀"
