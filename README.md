@@ -37,5 +37,12 @@ I specialize in Flutter and enjoy creating smooth user experiences with Firebase
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🎓 Education
+- **Root Academy** -Cert. Flutter Development Diploma
+- **Route Academy** - AI Cert. (Artificial Intelligence)
+- **Arab Open University**Cert. - Android Development Diploma
+- **NTI** - CCNA Cert. (Cisco Certified Network Associate)
+- **NTI** - AI Cert. (Artificial Intelligence)
+
 
 > "Keep learning, keep building, and stay awesome! 🚀"
