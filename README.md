@@ -1,15 +1,15 @@
 # Hi there 👋 I'm Menna Hossam
 
 ## 💻 About Me
-I'm a Flutter Developer passionate about building beautiful and functional mobile applications.  
-I love working with Firebase, animations, and creating smooth user experiences.
+I'm passionate about developing mobile apps that make a positive impact on users' lives.  
+I specialize in Flutter and enjoy creating smooth user experiences with Firebase integration.
 
 ---
 
 ## 🛠 Skills
 - Flutter & Dart
 - Firebase Authentication & Firestore
-- State Management (Provider, Riverpod, Bloc)
+- State Management (Provider, Riverpod, Bloc,GetX)
 - RESTful APIs Integration
 - UI/UX Design & Animations
 
@@ -17,6 +17,7 @@ I love working with Firebase, animations, and creating smooth user experiences.
 
 ## 📈 GitHub Stats
 ![Menna's GitHub stats](https://github-readme-stats.vercel.app/api?username=01090568252&show_icons=true&theme=radical)
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=01090568252&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01090568252&layout=compact&theme=radical)](https://github.com/01090568252/github-readme-stats)
 
